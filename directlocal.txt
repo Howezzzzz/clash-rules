@@ -39,3 +39,4 @@ payload:
   - 'abeat.world'
   - 'steamserver.net'
   - 'audiostorrent.org'
+  - 'audioz.download'

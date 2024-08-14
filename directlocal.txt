@@ -40,3 +40,4 @@ payload:
   - 'steamserver.net'
   - 'audiostorrent.org'
   - 'audioz.download'
+  - 'steamcontent.com'

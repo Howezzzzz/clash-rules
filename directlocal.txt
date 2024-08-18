@@ -41,3 +41,4 @@ payload:
   - 'audiostorrent.org'
   - 'audioz.download'
   - 'steamcontent.com'
+  - 'steampipe.steamcontent.com'

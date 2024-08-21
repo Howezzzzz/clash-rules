@@ -37,7 +37,6 @@ payload:
   - 'opendrive.com'
   - 'od.lk'
   - 'abeat.world'
-  - 'steamserver.net'
   - 'audiostorrent.org'
   - 'audioz.download'
   - 'steamcontent.com'

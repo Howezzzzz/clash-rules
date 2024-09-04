@@ -16,3 +16,4 @@ payload:
   - '+.overloud.com'
   - '+.adobe.com'
   - '+.adobe.io'
+  - '+.adobestats.io'

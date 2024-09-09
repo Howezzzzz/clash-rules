@@ -33,7 +33,6 @@ payload:
   - 'ijvam.com'
   - 'audiostorrent.com'
   - 'autocut.video'
-  - 'rapidgator.net'
   - 'opendrive.com'
   - 'od.lk'
   - 'abeat.world'

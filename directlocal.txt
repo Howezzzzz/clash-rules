@@ -40,3 +40,4 @@ payload:
   - 'audioz.download'
   - 'steamcontent.com'
   - 'steampipe.steamcontent.com'
+  - 'vtp0b-my.sharepoint.com'

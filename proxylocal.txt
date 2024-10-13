@@ -2,3 +2,4 @@ payload:
   - 'recaptcha.net'
   - 'googleapis.com'
   - 'gstatic.com'
+  - 'audioz.download'

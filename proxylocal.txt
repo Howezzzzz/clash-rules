@@ -3,3 +3,4 @@ payload:
   - 'googleapis.com'
   - 'gstatic.com'
   - 'audioz.download'
+  - 'qbittorrent.org'

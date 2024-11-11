@@ -4,3 +4,5 @@ payload:
   - 'gstatic.com'
   - 'audioz.download'
   - 'qbittorrent.org'
+  - 'www.qbittorrent.org'
+  - 'qplugins.qbittorrent.org'

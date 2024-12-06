@@ -3,7 +3,6 @@ payload:
   - '1shortlink.com'
   - '5m4xl6-my.sharepoint.com'
   - 'alfalinks.in'
-  - 'appstorrent.ru'
   - 'biliapi.net'
   - 'bilivideo.com'
   - 'btsow.motorcycles'

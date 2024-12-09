@@ -41,3 +41,4 @@ payload:
   - 'steampipe.steamcontent.com'
   - 'vtp0b-my.sharepoint.com'
   - 'h.trace.qq.com'
+  - 'appstorrent.ru'

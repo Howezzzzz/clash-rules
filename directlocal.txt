@@ -42,3 +42,4 @@ payload:
   - 'vtp0b-my.sharepoint.com'
   - 'h.trace.qq.com'
   - 'appstorrent.ru'
+  - 'tmplink-upload-acc.vxtrans.com'

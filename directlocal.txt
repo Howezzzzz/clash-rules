@@ -50,3 +50,7 @@ payload:
   - '196212-ipv4v6.gr.global.aa-rt.sharepoint.com'
   - 'cloudflarestorage.com'
   - 'r2.cloudflarestorage.com'
+  - 'cache10-tyo3.steamcontent.com'
+  - 'cache8-tyo3.steamcontent.com'
+  - 'cache11-tyo3.steamcontent.com'
+  - 'cache12-tyo3.steamcontent.com'

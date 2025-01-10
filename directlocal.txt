@@ -62,3 +62,4 @@ payload:
   - 'cache6-tyo3.steamcontent.com'
   - 'cache7-tyo3.steamcontent.com'
   - 'cache9-tyo3.steamcontent.com'
+  - 'veai-models.topazlabs.com'

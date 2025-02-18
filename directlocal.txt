@@ -64,3 +64,4 @@ payload:
   - 'cache9-tyo3.steamcontent.com'
   - 'veai-models.topazlabs.com'
   - 'cgdownload.ru'
+  - 'pypi.org'

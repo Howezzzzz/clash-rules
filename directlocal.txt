@@ -65,4 +65,3 @@ payload:
   - 'veai-models.topazlabs.com'
   - 'cgdownload.ru'
   - 'pypi.org'
-  - 'www.torrentmac.net'

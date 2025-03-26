@@ -17,3 +17,5 @@ payload:
   - '+.adobe.com'
   - '+.adobe.io'
   - '+.adobestats.io'
+  - '+.www.mediahuman.com'
+  - '+.www.mediahuman.net'

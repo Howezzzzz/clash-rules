@@ -6,3 +6,4 @@ payload:
   - 'qbittorrent.org'
   - 'www.qbittorrent.org'
   - 'qplugins.qbittorrent.org'
+  - 'chat.qwen.ai'

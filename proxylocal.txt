@@ -6,6 +6,3 @@ payload:
   - 'qbittorrent.org'
   - 'www.qbittorrent.org'
   - 'qplugins.qbittorrent.org'
-  - 'chat.qwen.ai'
-  - 'ssl.google-analytics.com'
-  - 'xux-web-config.oss-accelerate.aliyuncs.com'

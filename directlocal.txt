@@ -66,3 +66,4 @@ payload:
   - 'cgdownload.ru'
   - 'pypi.org'
   - 'cdn-centaurus.com'
+  - 'res-1.public.onecdn.static.microsoft'

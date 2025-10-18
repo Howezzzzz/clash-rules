@@ -68,3 +68,4 @@ payload:
   - 'cdn-centaurus.com'
   - 'res-1.public.onecdn.static.microsoft'
   - 'ye0r0rrinu.cdn-centaurus.com'
+  - 'tmp-sp.vx-cdn.com'

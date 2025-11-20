@@ -70,3 +70,4 @@ payload:
   - 'res-1.public.onecdn.static.microsoft'
   - 'ye0r0rrinu.cdn-centaurus.com'
   - 'tmp-sp.vx-cdn.com'
+  - 'filefast.95a6ab60df4973123f265d05d28f5eda.r2.cloudflarestorage.com'
